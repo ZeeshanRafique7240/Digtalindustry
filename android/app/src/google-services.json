@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "728149411655",
+    "project_id": "digital-techs-industry",
+    "storage_bucket": "digital-techs-industry.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728149411655:android:dc5434839aefe3ea002e62",
+        "android_client_info": {
+          "package_name": "com.example.digitaltechsindustry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728149411655-433ee7i2hpli79sc81q9qtrg87n4vq8l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.digitaltechsindustry",
+            "certificate_hash": "19c5ec762dd1b9f8f938c9dd751118c3a45e2169"
+          }
+        },
+        {
+          "client_id": "728149411655-omq2v6ml1cp3rm8iqq4h240bnogk1lk0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC7PC73N5mkY1kUw0SuL64Mcxr-eiJiv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728149411655-omq2v6ml1cp3rm8iqq4h240bnogk1lk0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
